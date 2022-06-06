@@ -1,0 +1,29 @@
+{
+  "name": "my-pizza-api",
+  "version": "1.0.0",
+  "description": "best pizza recipes API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ispasdani/my-pizza-api.git"
+  },
+  "keywords": [
+    "pizza",
+    "api",
+    "ingredients",
+    "recipe"
+  ],
+  "author": "Ispas Daniel-Nicolae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ispasdani/my-pizza-api/issues"
+  },
+  "homepage": "https://github.com/ispasdani/my-pizza-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
