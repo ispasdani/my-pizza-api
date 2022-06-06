@@ -1,58 +1,62 @@
 {
-  "pizza1": [
+  "pizza": [
     {
-      "name": "Caramelized Zucchini Flatbread",
-      "ingredients": "1lb. pizza dough, 1lb. zucchini(about 3 medium), 1 large red onion, 6 tbsp. extra virgin olive oil plus more for drizzling Kosher salt, 1 lemon, 2 cups fresh ricotta, cup finely grated Parmesan (about 1 oz), 1 small garlic clove, cup mint leaves, tsp. crushed red pepper flakes",
-      "preparation": [
+      "pizza1": [
         {
-          "step1": "Place racks on upper and lower third of oven; preheat to 450°. Let 1 lb. pizza dough sit in its bag or container until it reaches room temperature, at least 30 minutes—room temp dough is much easier to stretch. Prepare your vegetables while you wait",
-          "step2": "Start by trimming stem end from 1½ lb. zucchini, then slice crosswise into thick coins",
-          "step3": "Peel 1 onion and thinly slice crosswise into rings to match thickness of zucchini",
-          "step4": "Toss zucchini, onion, and 2 Tbsp. oil on a rimmed baking sheet; season generously with salt. Spread out in an even layer into corners of pan, taking care not to pile into the middle. Roast on top rack, tossing with a spatula once halfway through, until vegetables are well browned all over and tender, 25 30 minutes. Let cool",
-          "step5": "Place dough in the center of another large baking sheet and drizzle with 1 Tbsp. oil, then turn to coat. Using your fingers, stretch dough outward from the center all the way to edges of pan. If dough stubbornly springs back, cover with plastic wrap and let rest a few minutes. You may need to do this a few times until your dough cooperates",
-          "step6": "Drizzle dough with 1 Tbsp. oil and use clean hands to spread oil all across surface. Season dough lightly with salt",
-          "step7": "Bake dough on bottom rack until beginning to brown and crisp on the bottom, 7 9 minutes",
-          "step8": "Mix 2 cups ricotta, cup Parmesan, 2 Tbsp. oil, and tsp. salt in a medium bowl. Using a Microplane, finely grate zest from half of the lemon into bowl with ricotta mixture. Peel 1 garlic clove and use Microplane to grate into bowl. Mix to combine.",
-          "step9": "Dollop ricotta mixture generously over dough. Top with roasted veggies, distributing evenly.",
-          "step10": "Return flatbread to top third of oven and bake until ricotta starts to ooze into vegetables, 6 8 minutes",
-          "step11": "Immediately grate zest from remaining half of lemon across pizza. Sprinkle  cup mint leaves and a tsp. red pepper flakes over, then squeeze one half of the zested lemon across surface. Drizzle with oil before slicing."
+          "name": "Caramelized Zucchini Flatbread",
+          "ingredients": "1lb. pizza dough, 1lb. zucchini(about 3 medium), 1 large red onion, 6 tbsp. extra virgin olive oil plus more for drizzling Kosher salt, 1 lemon, 2 cups fresh ricotta, cup finely grated Parmesan (about 1 oz), 1 small garlic clove, cup mint leaves, tsp. crushed red pepper flakes",
+          "preparation": [
+            {
+              "step1": "Place racks on upper and lower third of oven; preheat to 450°. Let 1 lb. pizza dough sit in its bag or container until it reaches room temperature, at least 30 minutes—room temp dough is much easier to stretch. Prepare your vegetables while you wait",
+              "step2": "Start by trimming stem end from 1½ lb. zucchini, then slice crosswise into thick coins",
+              "step3": "Peel 1 onion and thinly slice crosswise into rings to match thickness of zucchini",
+              "step4": "Toss zucchini, onion, and 2 Tbsp. oil on a rimmed baking sheet; season generously with salt. Spread out in an even layer into corners of pan, taking care not to pile into the middle. Roast on top rack, tossing with a spatula once halfway through, until vegetables are well browned all over and tender, 25 30 minutes. Let cool",
+              "step5": "Place dough in the center of another large baking sheet and drizzle with 1 Tbsp. oil, then turn to coat. Using your fingers, stretch dough outward from the center all the way to edges of pan. If dough stubbornly springs back, cover with plastic wrap and let rest a few minutes. You may need to do this a few times until your dough cooperates",
+              "step6": "Drizzle dough with 1 Tbsp. oil and use clean hands to spread oil all across surface. Season dough lightly with salt",
+              "step7": "Bake dough on bottom rack until beginning to brown and crisp on the bottom, 7 9 minutes",
+              "step8": "Mix 2 cups ricotta, cup Parmesan, 2 Tbsp. oil, and tsp. salt in a medium bowl. Using a Microplane, finely grate zest from half of the lemon into bowl with ricotta mixture. Peel 1 garlic clove and use Microplane to grate into bowl. Mix to combine.",
+              "step9": "Dollop ricotta mixture generously over dough. Top with roasted veggies, distributing evenly.",
+              "step10": "Return flatbread to top third of oven and bake until ricotta starts to ooze into vegetables, 6 8 minutes",
+              "step11": "Immediately grate zest from remaining half of lemon across pizza. Sprinkle  cup mint leaves and a tsp. red pepper flakes over, then squeeze one half of the zested lemon across surface. Drizzle with oil before slicing."
+            }
+          ]
         }
-      ]
-    }
-  ],
-  "pizza2": [
-    {
-      "name": "Sheet-Pan Pizza with Brussels Sprouts and Salami",
-      "ingredients": "1 pound prepared pizza dough, 1 pound Brussels sprouts, 6 garlic cloves, unpeeled, 6 tablespoons extra-virgin olive oil, divided, Kosher salt, A large pinch of crushed red pepper flakes, plus more for serving, 3 ounces hard salami, 12 ounces low-moisture salted mozzarella cheese, 1 small shallot, 1 lemon",
-      "preparation": [
+      ],
+      "pizza2": [
         {
-          "step1": "Place a rack directly underneath broiler in oven; preheat to 450°. Make sure bottom of oven is accessible (that s right, you re going to bake directly on the bottom of your oven). Take 1 lb. pizza dough out of fridge and let it sit so it reaches room temperature, because room temp dough is much easier to stretch.",
-          "step2": "Start by trimming 1 lb. Brussels sprouts. Slice off the dried, gnarly bottoms of each sprout; discard any dried outer leaves that may fall off. Slice each sprout in half lengthwise.",
-          "step3": "Set aside about one-quarter of the halves, then transfer remaining sprouts to a rimmed baking sheet. Add 6 garlic cloves, then drizzle with 2 Tbsp. oil; season with salt and a large pinch of red pepper flakes. Toss with clean hands to combine and arrange sprouts cut sides down.",
-          "step4": "Place baking sheet on floor of oven (NOT on a rack) and roast, turning sprouts halfway through with a spatula, until sprouts are deeply browned on all over and tender all the way through, 15 18 minutes. Let cool.",
-          "step5": "While Brussels are roasting and cooling, prep your other ingredients. Remove casing from 3 oz. salami and slice into thin rings, then cut rings into quarters. Slice 12 oz. mozzarella into planks that are no more than thick. Peel shallot and cut crosswise into thin rings. Place shallot rings in a small bowl. Cut lemon in half and squeeze halves into bowl. Add a pinch of salt and toss; set aside.",
-          "step6": "When Brussels are cool enough to handle, scrape into a medium bowl and set aside. Reserve sheet tray. Fish out garlic and squeeze cloves from skins. Mash garlic to a paste in another small bowl with a fork. Add 2 Tbsp. oil and stir to combine.",
-          "step7": "Place dough in center of reserved baking sheet and drizzle with 1 Tbsp. oil, then toss to coat. Use your fingers to stretch dough outward from center all the way to edges of baking sheet. If dough stubbornly springs back, cover with plastic wrap and let rest a few minutes before attempting to stretch again.",
-          "step8": "Drizzle garlic-oil over dough and spread around with your fingers to coat. Season with salt, then top with mozzarella, roasted Brussels, and salami, distributing evenly. (Reserve bowl that held Brussels.)",
-          "step9": "Bake pizza on floor of oven until underside is browned and edges are puffed and starting to turn golden, 7 10 minutes (lift up edge of pizza with spatula to peek underneath).",
-          "step10": "While pizza is baking, thinly slice remaining Brussels sprouts crosswise and add to bowl that had the roasted sprouts. Toss with remaining 1 Tbsp. oil and season with salt.",
-          "step11": "Remove pizza from oven and turn broiler to high. Scatter sliced Brussels over pizza.",
-          "step12": "Broil pizza on top rack until cheese is bubbling and browned and edges of crust are deep golden, 2 3 minutes.",
-          "step13": "Top with more red pepper flakes. Drain shallot and scatter rings over pizza."
+          "name": "Sheet-Pan Pizza with Brussels Sprouts and Salami",
+          "ingredients": "1 pound prepared pizza dough, 1 pound Brussels sprouts, 6 garlic cloves, unpeeled, 6 tablespoons extra-virgin olive oil, divided, Kosher salt, A large pinch of crushed red pepper flakes, plus more for serving, 3 ounces hard salami, 12 ounces low-moisture salted mozzarella cheese, 1 small shallot, 1 lemon",
+          "preparation": [
+            {
+              "step1": "Place a rack directly underneath broiler in oven; preheat to 450°. Make sure bottom of oven is accessible (that s right, you re going to bake directly on the bottom of your oven). Take 1 lb. pizza dough out of fridge and let it sit so it reaches room temperature, because room temp dough is much easier to stretch.",
+              "step2": "Start by trimming 1 lb. Brussels sprouts. Slice off the dried, gnarly bottoms of each sprout; discard any dried outer leaves that may fall off. Slice each sprout in half lengthwise.",
+              "step3": "Set aside about one-quarter of the halves, then transfer remaining sprouts to a rimmed baking sheet. Add 6 garlic cloves, then drizzle with 2 Tbsp. oil; season with salt and a large pinch of red pepper flakes. Toss with clean hands to combine and arrange sprouts cut sides down.",
+              "step4": "Place baking sheet on floor of oven (NOT on a rack) and roast, turning sprouts halfway through with a spatula, until sprouts are deeply browned on all over and tender all the way through, 15 18 minutes. Let cool.",
+              "step5": "While Brussels are roasting and cooling, prep your other ingredients. Remove casing from 3 oz. salami and slice into thin rings, then cut rings into quarters. Slice 12 oz. mozzarella into planks that are no more than thick. Peel shallot and cut crosswise into thin rings. Place shallot rings in a small bowl. Cut lemon in half and squeeze halves into bowl. Add a pinch of salt and toss; set aside.",
+              "step6": "When Brussels are cool enough to handle, scrape into a medium bowl and set aside. Reserve sheet tray. Fish out garlic and squeeze cloves from skins. Mash garlic to a paste in another small bowl with a fork. Add 2 Tbsp. oil and stir to combine.",
+              "step7": "Place dough in center of reserved baking sheet and drizzle with 1 Tbsp. oil, then toss to coat. Use your fingers to stretch dough outward from center all the way to edges of baking sheet. If dough stubbornly springs back, cover with plastic wrap and let rest a few minutes before attempting to stretch again.",
+              "step8": "Drizzle garlic-oil over dough and spread around with your fingers to coat. Season with salt, then top with mozzarella, roasted Brussels, and salami, distributing evenly. (Reserve bowl that held Brussels.)",
+              "step9": "Bake pizza on floor of oven until underside is browned and edges are puffed and starting to turn golden, 7 10 minutes (lift up edge of pizza with spatula to peek underneath).",
+              "step10": "While pizza is baking, thinly slice remaining Brussels sprouts crosswise and add to bowl that had the roasted sprouts. Toss with remaining 1 Tbsp. oil and season with salt.",
+              "step11": "Remove pizza from oven and turn broiler to high. Scatter sliced Brussels over pizza.",
+              "step12": "Broil pizza on top rack until cheese is bubbling and browned and edges of crust are deep golden, 2 3 minutes.",
+              "step13": "Top with more red pepper flakes. Drain shallot and scatter rings over pizza."
+            }
+          ]
         }
-      ]
-    }
-  ],
-  "pizza3": [
-    {
-      "name": "Salad Pizza",
-      "ingredients": "1 pound store-bought pizza dough, room temperature, 3 tablespoons plus ⅓ cup extra-virgin olive oil, 3 garlic cloves, finely grated, Kosher salt, freshly ground pepper, 1 large head of Bibb lettuce, leaves separated and torn, 4 ounces Gorgonzola, crumbled (about 1½ cups), ¼ cup pickled red onion, 3 tablespoons sliced chives, 4 ounces thinly sliced prosciutto, but any good thinly sliced ham will be delicious here, 2 tablespoons red wine vinegar, teaspoon sugar",
-      "preparation": [
+      ],
+      "pizza3": [
         {
-          "step1": "Preheat oven to 475°. Place dough on a rimmed baking sheet and drizzle with 1 Tbsp. oil; turn to coat. Stretch dough outward with your hands until it covers the entire sheet (it should be thin, which is what you want). If dough springs back, let it rest a few minutes to relax before stretching again.",
-          "step2": "Mix garlic and 2 Tbsp. oil in a small bowl. Drizzle over dough, using your hands to spread across entire surface; season with salt and pepper. Bake dough, rotating baking sheet once, until golden, puffed, and crisp all over, 10 12 minutes. Let cool slightly (so lettuce won t wilt).",
-          "step3": "Toss lettuce, Gorgonzola, pickled onion, and chives in a large bowl; season with salt and pepper. Whisk vinegar and sugar in another small bowl, then, whisking constantly, gradually stream in remaining ⅓ cup oil. Pour dressing over salad and toss to coat.",
-          "step4": "Arrange salad on top of pizza crust and drape prosciutto over. Slice pizza into squares."
+          "name": "Salad Pizza",
+          "ingredients": "1 pound store-bought pizza dough, room temperature, 3 tablespoons plus ⅓ cup extra-virgin olive oil, 3 garlic cloves, finely grated, Kosher salt, freshly ground pepper, 1 large head of Bibb lettuce, leaves separated and torn, 4 ounces Gorgonzola, crumbled (about 1½ cups), ¼ cup pickled red onion, 3 tablespoons sliced chives, 4 ounces thinly sliced prosciutto, but any good thinly sliced ham will be delicious here, 2 tablespoons red wine vinegar, teaspoon sugar",
+          "preparation": [
+            {
+              "step1": "Preheat oven to 475°. Place dough on a rimmed baking sheet and drizzle with 1 Tbsp. oil; turn to coat. Stretch dough outward with your hands until it covers the entire sheet (it should be thin, which is what you want). If dough springs back, let it rest a few minutes to relax before stretching again.",
+              "step2": "Mix garlic and 2 Tbsp. oil in a small bowl. Drizzle over dough, using your hands to spread across entire surface; season with salt and pepper. Bake dough, rotating baking sheet once, until golden, puffed, and crisp all over, 10 12 minutes. Let cool slightly (so lettuce won t wilt).",
+              "step3": "Toss lettuce, Gorgonzola, pickled onion, and chives in a large bowl; season with salt and pepper. Whisk vinegar and sugar in another small bowl, then, whisking constantly, gradually stream in remaining ⅓ cup oil. Pour dressing over salad and toss to coat.",
+              "step4": "Arrange salad on top of pizza crust and drape prosciutto over. Slice pizza into squares."
+            }
+          ]
         }
       ]
     }
